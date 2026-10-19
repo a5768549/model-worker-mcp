@@ -1,0 +1,11 @@
+{
+  "name": "model-worker",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "credentials:set": "node scripts/credentials-set.js"
+  }
+}

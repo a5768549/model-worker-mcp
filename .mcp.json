@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "model-worker": {
+      "command": "node",
+      "args": ["./server/server.js"],
+      "cwd": ".",
+      "env": {
+        "MODEL_WORKER_BASE_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "MODEL_WORKER_MODEL": "qwen3.7-plus"
+      }
+    }
+  }
+}

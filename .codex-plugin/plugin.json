@@ -1,0 +1,10 @@
+{
+  "name": "model-worker",
+  "displayName": "Model Worker",
+  "description": "A local MCP for bounded coding tasks through an OpenAI-compatible provider.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Star1Age"
+  },
+  "license": "MIT"
+}
